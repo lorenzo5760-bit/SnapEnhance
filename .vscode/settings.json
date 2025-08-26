@@ -1,0 +1,35 @@
+{
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "amazonQ.allowFeatureDevelopmentToRunCodeAndTests": {
+
+    },
+    "amazonQ.ignoredSecurityIssues": [
+        ""
+    ],
+    "amazonQ.suppressPrompts": {
+        "createCredentialsProfile": true,
+        "codeWhispererNewWelcomeMessage": true,
+        "codeWhispererConnectionExpired": true,
+        "amazonQWelcomePage": true,
+        "amazonQSessionConfigurationMessage": false,
+        "minIdeVersion": false,
+        "ssoCacheError": true,
+        "amazonQLspManifestMessage": true,
+        "amazonQWorkspaceLspManifestMessage": false,
+        "amazonQChatDisclaimer": false,
+        "amazonQChatPairProgramming": false,
+        "amazonQSelectDeveloperProfile": false
+    },
+    "aws.resources.enabledResources": [
+        ""
+    ],
+    "python.analysis.reportExtraTelemetry": true,
+    "python.analysis.showOnlyDirectDependenciesInAutoImport": true,
+    "python.analysis.supportAllPythonDocuments": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.typeEvaluation.enableExperimentalFeatures": true,
+    "python.analysis.typeEvaluation.enableReachabilityAnalysis": true,
+    "python.analysis.typeEvaluation.strictDictionaryInference": true,
+    "python.analysis.typeEvaluation.strictListInference": true,
+    "python.analysis.typeEvaluation.strictSetInference": true
+}
